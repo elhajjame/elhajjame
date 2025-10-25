@@ -9,7 +9,8 @@
 - 🎓 Currently learning **JavaScript** and **C**  
 - 🧠 Exploring the world of **web development**  
 - 💡 I’m building small projects like a **Calculator**, **To-Do List**, and a **Book Store**  
-- 🎯 Future Goals: Become a **Full-Stack Developer** and move into **AI**  
+- 🎯 Future Goals: Become a **Full-Stack Developer** and move into **AI**
+- 📫 How to reach me **el-hajjame@outlook.com**
 - 💬 “*I am always ready to learn although I do not always like being taught.*”
 
 ---
