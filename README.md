@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Mehdi El-Hajjame  
+# 👋 Hey there, I'm Mehdi  
 
 💻 **Student Learning Web Development**  
 🚀 *Passionate about coding and problem solving*  
