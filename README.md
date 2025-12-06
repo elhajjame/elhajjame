@@ -36,10 +36,7 @@
 ## 🚀 Progress & Activity  
 
 ### 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=elhajjame&theme=blueberry&hide_border=false)
-
-### 📈 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elhajjame&theme=react-dark&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elhajjame&theme=cobalt&border_radius=50&date_format=j%20M%5B%20Y%5D&card_width=540)](https://git.io/streak-stats)
 
 ### 🧠 Language Progress  
 #### Top Languages  
