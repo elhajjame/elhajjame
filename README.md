@@ -15,20 +15,6 @@
 ### GitHub Streak  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elhajjame&theme=cobalt&border_radius=50&date_format=j%20M%5B%20Y%5D&card_width=540)](https://git.io/streak-stats)
 
-## Languages Progress
-
-## 🚀 Languages Progress
-🟨 **JavaScript **  
-▰▰▰▰▰▰▰▰▰▱▱▱ 70%
-🔵 **C **  
-▰▰▰▱▱▱▱▱▱▱▱▱ 30%
-🟧 **HTML **  
-▰▰▱▱▱▱▱▱▱▱▱▱ 20%
-🟦 **CSS **  
-▰▰▰▱▱▱▱▱▱▱▱▱ 30%
-☕ **Java **  
-▰▰▰▰▰▱▱▱▱▱▱▱ 50%
-
 ## 🌐 Connect With Me  
 ---
 ⭐ **Thanks for visiting my profile!**  
