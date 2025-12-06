@@ -2,9 +2,7 @@
 
 💻 **Student Learning Web Development**  
 🚀 *Passionate about coding and problem solving*  
-
 ---
-
 ## 🌱 About Me  
 - 🎓 Currently learning **JavaScript** and **C**  
 - 🧠 Exploring the world of **web development**  
@@ -12,43 +10,24 @@
 - 🎯 Future Goals: Become a **Full-Stack Developer** and move into **AI**
 - 📫 How to reach me **el-hajjame@outlook.com**
 - 💬 “*I am always ready to learn although I do not always like being taught.*”
-
 ---
+## Progress & Activity  
 
-### 💻 Languages & Tools  
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-</p>
----
-
-## 🚀 Progress & Activity  
-
-### 🔥 GitHub Streak  
+### GitHub Streak  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elhajjame&theme=cobalt&border_radius=50&date_format=j%20M%5B%20Y%5D&card_width=540)](https://git.io/streak-stats)
 
-## 🚀 Languages Progress
+## Languages Progress
 
-🟨 **JavaScript**  
+ **JavaScript**  
 ▰▰▰▰▰▰▰▰▰▱▱▱ 70%
-
-🔵 **C**  
+ **C**  
 ▰▰▰▱▱▱▱▱▱▱▱▱ 30%
-
-🟧 **HTML (20%)**  
+ **HTML (20%)**  
 ▰▰▱▱▱▱▱▱▱▱▱▱ 20%
-
-🟦 **CSS**  
+ **CSS**  
 ▰▰▰▱▱▱▱▱▱▱▱▱ 30%
-
-☕ **Java**  
+ **Java**  
 ▰▰▰▰▰▱▱▱▱▱▱▱ 50%
----
 
 ## 🌐 Connect With Me  
 ---
