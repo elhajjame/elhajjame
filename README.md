@@ -1,7 +1,6 @@
 # 👋 Hey there, I'm Mehdi  
 
-💻 **Student Learning Web Development**  
-🚀 *Passionate about coding and problem solving*  
+💻 **Learning Web Development**  
 ---
 ## 🌱 About Me  
 - 🎓 Currently learning **JavaScript** and **C**  
@@ -19,15 +18,15 @@
 ## Languages Progress
 
 ## 🚀 Languages Progress
-🟨 **JavaScript**  
+🟨 **JavaScript **  
 ▰▰▰▰▰▰▰▰▰▱▱▱ 70%
-🔵 **C**  
+🔵 **C **  
 ▰▰▰▱▱▱▱▱▱▱▱▱ 30%
-🟧 **HTML**  
+🟧 **HTML **  
 ▰▰▱▱▱▱▱▱▱▱▱▱ 20%
-🟦 **CSS**  
+🟦 **CSS **  
 ▰▰▰▱▱▱▱▱▱▱▱▱ 30%
-☕ **Java**  
+☕ **Java **  
 ▰▰▰▰▰▱▱▱▱▱▱▱ 50%
 
 ## 🌐 Connect With Me  
