@@ -33,11 +33,17 @@
 
 ---
 
+## 🚀 Progress & Activity  
 
-## 📊 GitHub Stats  
+### 🔥 GitHub Streak  
+![GitHub Streak](https://streak-stats.demolab.com?user=elhajjame&theme=blueberry&hide_border=false)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=elhajjame&show_icons=true&theme=blue_navy&bg_color=ffffff&title_color=000000&text_color=000000" alt="Mehdi's GitHub Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elhajjame&layout=compact&theme=blue_navy&bg_color=ffffff&title_color=000000&text_color=000000" alt="Top Languages" width="48%" /> </p>
+### 📈 Contribution Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=elhajjame&theme=react-dark&hide_border=false)
 
+### 🧠 Language Progress  
+#### Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elhajjame&layout=compact&theme=tokyonight)
 
 ---
 
