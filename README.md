@@ -40,8 +40,8 @@
 
 ### 🧠 Language Progress  
 #### Top Languages  
-JavaScript ████████████░░░░░░ 60%  
-C          ████████░░░░░░░░░░ 40%
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elhajjame&layout=compact&theme=tokyonight)
+
 
 
 ---
