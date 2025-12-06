@@ -40,7 +40,8 @@
 
 ### 🧠 Language Progress  
 #### Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elhajjame&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elhajjame&layout=compact&theme=github_dark)
+
 
 
 
