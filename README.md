@@ -14,6 +14,7 @@
 
 ### GitHub Streak  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elhajjame&theme=cobalt&border_radius=50&date_format=j%20M%5B%20Y%5D&card_width=540)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elhajjame&theme=cobalt&border_radius=50&date_format=j%20M%5B%20Y%5D&card_width=540)](https://git.io/streak-stats)
 
 ## 🌐 Connect With Me  
 ---
