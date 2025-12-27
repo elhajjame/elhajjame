@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mehdi</h1>
-<h3 align="center">Web Development Student</h3>
+<h1 align="left">Hi 👋, I'm Mehdi</h1>
+<h3 align="left">Web Development Student</h3>
 
 ---
 
@@ -12,30 +12,11 @@
 
 ---
 
-### 🛠️ Tech Stack (Learning)
-<p align="left">
-![GitHub Stats](https://streak-stats.demolab.com?user=elhajjame&theme=default&hide_border=true)
-</p>
-
----
-
 ### 📚 Currently Studying
 - JavaScript (DOM manipulation, logic, basics)
 - C language (syntax, variables, conditions, loops)
 - Git & GitHub fundamentals
 - Basic web projects (front-end)
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-[<img src="https://github-readme-stats.vercel.app/api?username=elhajjame&show_icons=true&theme=tokyonight" />](https://github-readme-stats.vercel.app/api?username=elhajjame&theme=default&show_icons=true&hide_border=true&count_private=true)
-</p>
-
----
-
-### 📫 Connect With Me
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/elhajjame)
 
 ---
 
