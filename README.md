@@ -29,13 +29,13 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=elhajjame&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=elhajjame&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [github.com/YOUR_USERNAME](https://github.com/elhajjame)
 
 ---
 
