@@ -187,14 +187,6 @@ const mehdi: Developer = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--             ACTIVITY GRAPH                             -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elhajjame&bg_color=0D1117&color=FB923C&line=EF4444&point=ffffff&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
-</div>
-
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
