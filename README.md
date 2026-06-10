@@ -210,15 +210,15 @@ If you have something interesting in mind, I'd love to connect.
 
 <br/>
 
-<a href="mailto:mehdi.elhajjame@email.com">
+<a href="mailto:el-hajjame@outlook.com">
   <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/elhajjame" target="_blank">
+<a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://elhajjame.dev" target="_blank">
+<a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Visit_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
