@@ -15,7 +15,7 @@
 
 <!-- Profile badges -->
 <p>
-  <a href="mailto:mehdi.elhajjame@email.com">
+  <a href="mailto:el-hajjame@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
