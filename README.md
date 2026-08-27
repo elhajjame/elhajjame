@@ -4,7 +4,7 @@
 <!--                      HERO SECTION                      -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:7f1d1d,100:c2410c&height=200&section=header&text=Mehdi%20El-Hajjame&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%E2%80%94%20Frontend%20Focused&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:7f1d1d,100:c2410c&height=200&section=header&text=Mehdi%20El-Hajjame&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%E2%80%94%20Backend%20Focused&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
